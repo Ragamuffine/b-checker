@@ -1,0 +1,26 @@
+
+.main {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.main-table {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.main-table tbody tr th {
+    width: 15%;
+    border: 1px solid;
+    font-weight: normal;
+}
+
+.main-table tbody tr td {
+    width: 85%;
+    border: 1px solid;
+    padding: 4px 10px 4px 10px;
+}
